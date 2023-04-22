@@ -30,7 +30,7 @@ version: v1.0.0
 cacheDefault: null
 spec:
   name: crowdin-downloader
-  image: giteeru/crowdin-cli:3.10.1
+  image: giteeru/crowdin-cli:1.0.0
   resources:
     limits:
       cpu: 200m
